@@ -1,3 +1,3 @@
 build:
     mdbook build
-    zip -r notary.zip book/
+    zip -r notary.zip book/html/

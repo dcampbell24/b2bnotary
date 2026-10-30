@@ -4,6 +4,14 @@ authors = ["David Campbell"]
 language = "en"
 description = "This site contains information about David Lawrence Campbell's notary commission. This includes his company, commission expiration date, and where he lives."
 
+[output.html]
+
 [output.sitemap]
 base-url = "https://southportlandnotary.com"
 # base-url = "http://localhost:3000"
+
+[rust]
+edition = "2024"
+
+[build]
+build-dir = "book"
