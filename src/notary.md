@@ -1,0 +1,30 @@
+<div style="display: flex; gap: 20px;">
+  <div style="flex: 1;">
+
+## Notary Public
+
+**Company**: NOTARY PUBLIC SERVICES LLC  
+**Notary Name**: David Lawrence Campbell  
+**Commission Expiration Date**: 2033-09-21  
+**Location**: South Portland, ME, USA  
+**Email**: notary_public "at" tutamail.com  
+
+David is a notary public serving all of Maine. You must come to his home in
+South Portland to get your documents notarized. Send him an email for his
+address.
+
+David charges 15 USD for his in person services.
+
+DAVID IS NOT AN ATTORNEY LICENSED TO PRACTICE LAW IN MAINE AND MAY NOT GIVE
+LEGAL ADVICE ABOUT IMMIGRATION OR ANY OTHER LEGAL MATTER OR ACCEPT FEES FOR
+LEGAL ADVICE.
+
+  </div>
+  <div style="flex: 1;">
+
+![DLC Headshot][1]
+
+[1]: david.jpg
+
+  </div>
+</div>
