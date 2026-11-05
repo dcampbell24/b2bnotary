@@ -10,8 +10,8 @@
 **Email**: notary_public "at" tutamail.com  
 
 David helps small to mid-sized businesses, construction contractors,
-developers, and corporate legal departments to notarize documents with his
-remote online notary services so they can be a successful company.
+developers, and corporate legal departments to notarize documents on-demand
+with his remote online notary services so they can be a successful company.
 
 He charges 25 USD for his remote services and 15 USD for his in person
 services. Send him an email if you need his physical address.
