@@ -1,13 +1,13 @@
 [book]
-title = "South Portland Notary"
+title = "B2B Notary"
 authors = ["David Campbell"]
 language = "en"
-description = "This site contains information about David Lawrence Campbell's notary commission. This includes his company, commission expiration date, and where he lives."
+description = "This site is for David's notary business. He serves small to mid-sized businesses, construction contractors, developers, and corporate legal departments."
 
 [output.html]
 
 [output.sitemap]
-base-url = "https://southportlandnotary.com"
+base-url = "https://b2bnotary.net"
 # base-url = "http://localhost:3000"
 
 [rust]
