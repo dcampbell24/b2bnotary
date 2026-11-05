@@ -3,10 +3,10 @@
 curl -i -X POST https://api.indexnow.org/IndexNow \
     -H "Content-Type: application/json; charset=utf-8" \
     -d '{
-        "host": "southportlandnotary.com",
+        "host": "b2bnotary.net",
         "key": "",
-        "keyLocation": "https://southportlandnotary.com/",
+        "keyLocation": "https://b2bnotary.net/",
         "urlList": [
-            "https://southportlandnotary.com/notary.html"
+            "https://b2bnotary.net/notary.html"
         ]
     }'
