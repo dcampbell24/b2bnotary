@@ -10,8 +10,9 @@
 **Email**: david "at" b2bnotary.net  
 
 David helps small to mid-sized businesses, construction contractors,
-developers, and corporate legal departments to notarize documents by apointment
-with his remote online notary services so they can have a successful business.
+developers, and corporate legal departments to notarize documents by
+appointment with his remote online notary services so they can have a
+successful business.
 
 He charges 25 USD for his remote services and 15 USD for his in person
 services. Send him an email if you need his physical address.
