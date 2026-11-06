@@ -7,7 +7,7 @@
 **Notary Name**: David Lawrence Campbell  
 **Commission Expiration Date**: 2033-09-21  
 **Location**: South Portland, ME, USA  
-**Email**: notary_public "at" tutamail.com  
+**Email**: david "at" b2bnotary.net  
 
 David helps small to mid-sized businesses, construction contractors,
 developers, and corporate legal departments to notarize documents by apointment
@@ -30,4 +30,6 @@ LEGAL ADVICE.
   </div>
 </div>
 
-<iframe src="https://calendar.google.com/calendar/embed?src=dcampbell24%40gmail.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+## Schedule an Appointment
+
+<iframe src="https://calendar.google.com/calendar/embed?src=david%40b2bnotary.net&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
