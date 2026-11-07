@@ -6,6 +6,8 @@
 **Company**: NOTARY PUBLIC SERVICES LLC  
 **Notary Name**: David Lawrence Campbell  
 **Commission Expiration Date**: 2033-09-21  
+**Errors and Omissions Coverage**: 25,000 USD  
+**Errors and Omissions Expiration Date**: 12:01 AM 2033-10-27  
 **Location**: South Portland, ME, USA  
 **Email**: david "at" b2bnotary.net  
 
