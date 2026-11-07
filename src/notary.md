@@ -1,7 +1,7 @@
 <div style="display: flex; gap: 20px;">
   <div style="flex: 1;">
 
-## Notary Public
+## Biography
 
 **Company**: NOTARY PUBLIC SERVICES LLC  
 **Notary Name**: David Lawrence Campbell  
