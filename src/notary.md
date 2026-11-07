@@ -3,7 +3,7 @@
 
 ## Biography
 
-**Company**: NOTARY PUBLIC SERVICES LLC  
+**Company**: Notary Public Services LLC  
 **Notary Name**: David Lawrence Campbell  
 **Commission Expiration Date**: 2033-09-21  
 **Errors & Omissions Coverage**: 25,000 USD  
