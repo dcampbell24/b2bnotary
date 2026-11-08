@@ -6,6 +6,9 @@ description = "This site is for David's notary business. He serves small to mid-
 
 [output.html]
 
+[output.html.print]
+enable = false
+
 [output.sitemap]
 base-url = "https://b2bnotary.net"
 # base-url = "http://localhost:3000"
