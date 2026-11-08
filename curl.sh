@@ -7,6 +7,7 @@ curl -i -X POST https://api.indexnow.org/IndexNow \
         "key": "",
         "keyLocation": "https://b2bnotary.net/",
         "urlList": [
-            "https://b2bnotary.net/notary.html"
+            "https://b2bnotary.net/notary.html",
+            "https://b2bnotary.net/certificates.html"
         ]
     }'
