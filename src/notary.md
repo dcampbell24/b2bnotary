@@ -13,8 +13,9 @@
 
 David helps small to mid-sized businesses, construction contractors,
 developers, and corporate legal departments to notarize documents by
-appointment so they can have a successful business. He also solemnizes
-marriages.
+appointment so they can have a successful business.
+
+He also solemnizes marriages.
 
   </div>
   <div style="flex: 1;">
