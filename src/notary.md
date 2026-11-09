@@ -31,6 +31,8 @@ an Uber fee depending on the distance he must travel.
 
 Send him an email if you need his physical address.
 
+## Legal Notice
+
 DAVID IS NOT AN ATTORNEY LICENSED TO PRACTICE LAW IN MAINE AND MAY NOT GIVE
 LEGAL ADVICE ABOUT IMMIGRATION OR ANY OTHER LEGAL MATTER OR ACCEPT FEES FOR
 LEGAL ADVICE.
