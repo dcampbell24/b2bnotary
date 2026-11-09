@@ -16,8 +16,20 @@ developers, and corporate legal departments to notarize documents by
 appointment with his remote online notary services so they can have a
 successful business.
 
-He charges 25 USD for his remote services and 15 USD for his in person
-services. Send him an email if you need his physical address.
+## Fee Schedule in USD
+
+**In Person Acknowledgment:** 15  
+**Remote Acknowlegement:** 25  
+**In Person Jurat:** 15  
+**Remote Jurat:** 25  
+**In Person Oath/Affirmation:** 15  
+**Remote Oath/Affirmation:** 25  
+**Marriage Solemnization:** 100  
+
+If you don't come to David's address or use his remote services he will charge
+an Uber fee depending on the distance he must travel.
+
+Send him an email if you need his physical address.
 
 DAVID IS NOT AN ATTORNEY LICENSED TO PRACTICE LAW IN MAINE AND MAY NOT GIVE
 LEGAL ADVICE ABOUT IMMIGRATION OR ANY OTHER LEGAL MATTER OR ACCEPT FEES FOR
