@@ -13,21 +13,17 @@
 
 David helps small to mid-sized businesses, construction contractors,
 developers, and corporate legal departments to notarize documents by
-appointment with his remote online notary services so they can have a
-successful business.
+appointment so they can have a successful business.
 
 ## Fee Schedule in USD
 
-**In Person Acknowledgment:** 15  
-**Remote Acknowlegement:** 25  
-**In Person Jurat:** 15  
-**Remote Jurat:** 25  
-**In Person Oath/Affirmation:** 15  
-**Remote Oath/Affirmation:** 25  
+**Acknowlegement:** 15  
+**Jurat:** 15  
+**Oath/Affirmation:** 15  
 **Marriage Solemnization:** 100  
 
-If you don't come to David's address or use his remote services he will charge
-an Uber fee depending on the distance he must travel.
+If you don't come to David's address he will charge an Uber fee depending on
+the distance he must travel.
 
 Send him an email if you need his physical address.
 
