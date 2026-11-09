@@ -26,12 +26,12 @@ marriages.
   </div>
 </div>
 
-## Fee Schedule in USD
+## Fee Schedule
 
-**Acknowlegement:** 15  
-**Jurat:** 15  
-**Oath/Affirmation:** 15  
-**Marriage Solemnization:** 100  
+| Service | USD |
+| :--- | ---: |
+| Acknowlegement, Jurat, Oath, or Affirmation | 15 |
+| Marriage Solemnization | 100 |
 
 If you don't come to David's address, he will charge an Uber fee depending on
 the distance he must travel. Send him an email if you need his physical address.
