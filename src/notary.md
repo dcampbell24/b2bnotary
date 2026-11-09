@@ -33,8 +33,9 @@ marriages.
 | Acknowlegement, Jurat, Oath, or Affirmation | 15 |
 | Marriage Solemnization | 100 |
 
-If you don't come to David's address, he will charge an Uber fee depending on
-the distance he must travel. Send him an email if you need his physical address.
+If you don't come to David's address or give him a ride, he will charge an Uber
+fee depending on the distance he must travel. Send him an email if you need his
+physical address.
 
 ## Schedule an Appointment
 
