@@ -1,4 +1,4 @@
 # Summary
 
-- [Notary Public](./notary.md)
+- [Notary Public](./README.md)
 - [Certificates](./certificates.md)
